@@ -1,0 +1,5 @@
+{
+  "name": "Code Navigator AI",
+  "description": "An AI-powered developer onboarding assistant that visualizes codebase architecture, generates role-based checklists, and provides an interactive mentor chatbot for any GitHub repository.",
+  "requestFramePermissions": []
+}
